@@ -1,4 +1,4 @@
-# DDR archival activation — Turin 2026
+# DDR archival activation–Turin 2026
 
 Supplementary research artefact for Graham Newman's 2026 conference paper on archival activation, synthetic heritage, retrieval-augmented inference and scoped missingness in the Royal College of Art's Department of Design Research (DDR) archive.
 
@@ -14,9 +14,9 @@ The experiment used a corpus of 27,997 PID-backed text chunks. Questions were se
 
 The twelve cases are grouped into:
 
-1. **Known relationships** — retrieval across people, projects and activities while keeping archival association, documentary attribution and inferred responsibility distinct.
-2. **Contested interpretations** — comparison of different formulations, voices, source types and temporal positions without turning recurrence into consensus or variation into documented disagreement.
-3. **Scoped missingness** — retrieval of the nearest relevant traces while stating where the defined evidence surface does not establish the stronger historical claim.
+1. **Known relationships**–retrieval across people, projects and activities while keeping archival association, documentary attribution and inferred responsibility distinct.
+2. **Contested interpretations**–comparison of different formulations, voices, source types and temporal positions without turning recurrence into consensus or variation into documented disagreement.
+3. **Scoped missingness**–retrieval of the nearest relevant traces while stating where the defined evidence surface does not establish the stronger historical claim.
 
 The live research instrument uses two local models with separate functions: Qwen3 8B as a bounded inference layer and BAAI bge-m3 for semantic embeddings and retrieval. The same embeddings also support UMAP-based visual analytics.
 
