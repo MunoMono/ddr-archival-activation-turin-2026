@@ -1,11 +1,14 @@
 # Data
 
-This directory holds the machine-readable evidence package for the twelve-case experiment.
+This directory contains the machine-readable findings package for the twelve-case experiment.
 
-## Intended release files
+The working findings matrix is published as three CSV files so that each experimental cluster remains independently inspectable while preserving the complete set of matrix fields:
 
-- `final_findings_matrix.xlsx` — the working findings matrix used for the paper.
-- `final_findings_matrix.csv` — a flat export of the same matrix for reuse and inspection.
+- `known_relationships.csv` — cases 1–4.
+- `contested_interpretations.csv` — cases 5–8.
+- `scoped_missingness.csv` — cases 9–12.
 - `data_dictionary.md` — field definitions and interpretation notes.
 
-The current repository scaffold includes the data dictionary. The full matrix files should be added only from the final frozen version used for the submitted paper so that the repository release and the claims in the paper remain aligned.
+Together the three CSV files reproduce the complete twelve-case findings matrix used for the current paper draft.
+
+The repository remains a working scholarly supplement. Before the conference-paper release is frozen, the data files should be checked against the submitted manuscript and tagged as a versioned release.
