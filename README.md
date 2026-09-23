@@ -24,8 +24,9 @@ The live research instrument uses two local models with separate functions: Qwen
 
 ```
 data/
-  final_findings_matrix.csv
-  final_findings_matrix.xlsx
+  known_relationships.csv
+  contested_interpretations.csv
+  scoped_missingness.csv
   data_dictionary.md
 
 experiment/
@@ -54,7 +55,7 @@ Retrieved passages retain document and chunk identifiers, source metadata and pr
 
 The experiment evaluates whether retrieval returns relevant traces, whether responses preserve evidential status, whether ambiguity is retained and whether the system recognises where the available evidence stops.
 
-The complete findings matrix is included in both CSV and XLSX form. It records what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why each case matters.
+The complete twelve-case findings matrix is represented across three CSV files, one for each experimental cluster. Together they preserve all fields from the working findings matrix: what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why each case matters.
 
 ## Rights and source material
 
