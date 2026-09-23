@@ -4,7 +4,7 @@ Supplementary research artefact for Graham Newman's 2026 conference paper on arc
 
 ## Purpose
 
-This repository preserves the evidence package behind the reported twelve-case experiment. It is intended to keep the paper's research design, findings matrix, prompt set, provenance material and selected visual documentation inspectable without overloading the conference paper itself.
+This repository preserves the evidence package behind the reported 12-case experiment. It is intended to keep the paper's research design, findings matrix, prompt set, provenance material and selected visual documentation inspectable without overloading the conference paper itself.
 
 The repository should be read as a research artefact, not as a digital surrogate for the complete DDR archive. The experimental evidence surface is partial and bounded. Some DDR material remains undigitised, image-only, unavailable or insufficiently described.
 
@@ -12,7 +12,7 @@ The repository should be read as a research artefact, not as a digital surrogate
 
 The experiment used a corpus of 27,997 PID-backed text chunks. Questions were selected purposively as stress tests rather than as a representative sample of DDR history.
 
-The twelve cases are grouped into:
+The 12 cases are grouped into:
 
 1. **Known relationships**–retrieval across people, projects and activities while keeping archival association, documentary attribution and inferred responsibility distinct.
 2. **Contested interpretations**–comparison of different formulations, voices, source types and temporal positions without turning recurrence into consensus or variation into documented disagreement.
@@ -55,7 +55,7 @@ Retrieved passages retain document and chunk identifiers, source metadata and pr
 
 The experiment evaluates whether retrieval returns relevant traces, whether responses preserve evidential status, whether ambiguity is retained and whether the system recognises where the available evidence stops.
 
-The complete twelve-case findings matrix is represented across three CSV files, one for each experimental cluster. Together they preserve all fields from the working findings matrix: what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why each case matters.
+Three CSV files contain the complete 12-case findings matrix, one for each experimental cluster. They preserve all fields from the working findings matrix: what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why each case matters.
 
 ## Rights and source material
 
