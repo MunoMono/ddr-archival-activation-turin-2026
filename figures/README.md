@@ -4,7 +4,7 @@ This directory is reserved for publication-quality figures associated with the T
 
 Planned contents include:
 
-- evidential pathways across the twelve experimental cases;
+- evidential pathways across the 12 experimental cases;
 - retrieval trail for an archive-first query;
 - temporal comparison in the Design Education Unit case;
 - scoped missingness in the DDR closure case.
