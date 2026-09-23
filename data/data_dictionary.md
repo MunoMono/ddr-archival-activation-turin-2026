@@ -1,6 +1,6 @@
 # Findings matrix data dictionary
 
-The findings matrix records the analytical assessment of the twelve experimental cases.
+The findings matrix records the analytical assessment of the 12 experimental cases.
 
 | Field | Description |
 | --- | --- |
