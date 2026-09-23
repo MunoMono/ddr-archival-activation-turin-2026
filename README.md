@@ -4,7 +4,7 @@ Supplementary research artefact for Graham Newman's 2026 conference paper on arc
 
 ## Purpose
 
-This repository preserves the evidence package behind the reported 12-case experiment. It is intended to keep the paper's research design, findings matrix, prompt set, provenance material and selected visual documentation inspectable without overloading the conference paper itself.
+This repository preserves the evidence package behind the reported 12-case experiment. It keeps the paper's research design and findings matrix inspectable, alongside the prompt set, provenance material and selected visual documentation.
 
 The repository should be read as a research artefact, not as a digital surrogate for the complete DDR archive. The experimental evidence surface is partial and bounded. Some DDR material remains undigitised, image-only, unavailable or insufficiently described.
 
@@ -55,7 +55,7 @@ Retrieved passages retain document and chunk identifiers, source metadata and pr
 
 The experiment evaluates whether retrieval returns relevant traces, whether responses preserve evidential status, whether ambiguity is retained and whether the system recognises where the available evidence stops.
 
-Three CSV files contain the complete 12-case findings matrix, one for each experimental cluster. They preserve all fields from the working findings matrix: what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why each case matters.
+Three CSV files contain the complete 12-case findings matrix, one for each experimental cluster. They preserve the working findings matrix in full: retrieval results; model inferences; useful behaviour; overstatement or flattening; corpus limits; and the significance of each case.
 
 ## Rights and source material
 
