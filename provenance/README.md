@@ -1,6 +1,6 @@
 # Provenance benchmark
 
-The research instrument implements a bounded C2PA Content Credentials research workflow for selected outputs.
+The research instrument implements a bounded research workflow using C2PA Content Credentials for selected outputs.
 
 The workflow records source passages as ingredients, captures the creation action and checks resulting manifests for validity and hard-binding tamper detection.
 
