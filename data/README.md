@@ -1,6 +1,6 @@
 # Data
 
-This directory contains the machine-readable findings package for the twelve-case experiment.
+This directory contains the machine-readable findings package for the 12-case experiment.
 
 The working findings matrix is published as three CSV files so that each experimental cluster remains independently inspectable while preserving the complete set of matrix fields:
 
@@ -9,6 +9,6 @@ The working findings matrix is published as three CSV files so that each experim
 - `scoped_missingness.csv`–cases 9–12.
 - `data_dictionary.md`–field definitions and interpretation notes.
 
-Together the three CSV files reproduce the complete twelve-case findings matrix used for the current paper draft.
+Together the three CSV files reproduce the complete 12-case findings matrix used for the current paper draft.
 
 The repository remains a working scholarly supplement. Before the conference-paper release is frozen, the data files should be checked against the submitted manuscript and tagged as a versioned release.
