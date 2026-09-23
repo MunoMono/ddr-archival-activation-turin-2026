@@ -1,8 +1,8 @@
 # Evaluation protocol
 
-Evaluation is case-based rather than reduced to a single accuracy score.
+The evaluation is case-based and uses four questions rather than a single accuracy score.
 
-For each of the twelve cases, the analysis asks four questions:
+For each of the 12 cases, the analysis asks four questions:
 
 1. Did retrieval return relevant traces?
 2. Did the response preserve their evidential status?
@@ -11,6 +11,6 @@ For each of the twelve cases, the analysis asks four questions:
 
 The findings matrix records what retrieval surfaced, what the model inferred, what proved useful, what was overstated or flattened, what the corpus did not establish and why the case mattered.
 
-Final documentary claims are checked against cited chunks and quotations. Researcher judgement remains part of the workflow: question selection, identification of evidential risk, inspection of retrieved material, adjustment of retrieval routes and checking the scope of final claims against source material.
+The evaluation checks final documentary claims against cited chunks and quotations. Researcher judgement remains part of the workflow: question selection, identification of evidential risk, inspection of retrieved material, adjustment of retrieval routes and checking the scope of final claims against source material.
 
 The experiment therefore evaluates the combined arrangement of retrieval, evidence differentiation, constrained inference and researcher review rather than treating language-model fluency as the principal measure of success.
